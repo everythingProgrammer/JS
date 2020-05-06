@@ -1,0 +1,1 @@
+paragraphs= document.getElementsByTagName('p')
